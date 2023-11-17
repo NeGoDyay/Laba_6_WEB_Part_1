@@ -11,7 +11,7 @@ import static org.junit.Assert.fail;
 public class JDBC_CRUDTest {
     private static final String ADRESS = "jdbc:mysql://localhost:3306/jdbctest";
     private static final String LOGIN="root";
-    private static final String PASSWORD="15101210201Ny@";
+    private static final String PASSWORD="password";
     private static final String TABLE_NAME="programmers";
 
     @Test
